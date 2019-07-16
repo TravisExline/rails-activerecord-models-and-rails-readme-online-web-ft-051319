@@ -1,4 +1,4 @@
 require 'rails_helper'
 
-describe Post do 
+describe Post do
 end
